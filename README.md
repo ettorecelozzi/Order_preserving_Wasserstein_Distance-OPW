@@ -6,5 +6,6 @@ The implementation use the **Sinkhorn algorithm** as presented in:
 [M. Cuturi, "Sinkhorn Distances: Lightspeed Computation of Optimal Transport"](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf)
 
 ## Dependencies
+[Python 3.x](https://www.python.org/downloads/)  
 [Numpy](https://numpy.org/)  
 [Scipy](https://www.scipy.org/)
